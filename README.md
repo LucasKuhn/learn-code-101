@@ -1,5 +1,5 @@
 # Learn Code 101
-I'm teaching a friend how to code!
+Teaching a friend how to code!
 ( Yes, that's you Becker 😆)
 
 ## [Part 0](/part-0)
@@ -21,7 +21,7 @@ I'm teaching a friend how to code!
 - Object Oriented Programming
   - Reader, writer, accessor methods  
   - Instances, instance variables, class variables
-  - Inheritance: Animal Kingdom example 
+  - Inheritance: Animal Kingdom example
 
 ### Challenges
 1. Priest balloons

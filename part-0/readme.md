@@ -2,7 +2,7 @@
 Let's get your setup going! Learn Git! Be a Wizard! 🔮
 
 ### End Look:
-If you understand what happening here, you're good to go:
+If you understand what's happening here, you're good to go:
 
 ```bash
 cd ~
