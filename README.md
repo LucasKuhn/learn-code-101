@@ -19,6 +19,9 @@ I'm teaching a friend how to code!
 
 ## [Part 2](/part-2)
 - Object Oriented Programming
+  - Reader, writer, accessor methods  
+  - Instances, instance variables, class variables
+  - Inheritance: Animal Kingdom example 
 
 ### Challenges
 1. Priest balloons
@@ -40,7 +43,6 @@ I'm teaching a friend how to code!
 
 ### Challenges
 1. Client Project
-2.
 
 ## [Part 6](/part-6)
 - Your own project 🚀
