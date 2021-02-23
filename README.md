@@ -1,6 +1,6 @@
 # Learn Code 101
 Teaching a friend how to code!
-( Yes, that's you Becker 😆)
+( Yes, that's you Becker 😆😆😆)
 
 ## [Part 0](/part-0)
 - Terminal
