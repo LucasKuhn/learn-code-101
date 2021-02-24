@@ -1,23 +1,55 @@
-# Part 0
-Let's get your setup going! Learn Git! Be a Wizard! 🔮
+# Basics
 
-### End Look:
-If you understand what's happening here, you're good to go:
+This a string:
+```ruby
+"Hello there"
+```
+It's how we represent text in Ruby, and we need quotations marks around it: `"`
 
-```bash
-cd ~
-mkdir Developer
-cd Developer
-git clone https://github.com/LucasKuhn/learn-code-101
-cd learn-code-101
+This is a number:
+```ruby
+1
+```
+Obviously.
+
+And this is Johny, the variable:
+```ruby
+johnny
 ```
 
-```bash
-ruby --version
-rails --version
+Ruby is a [dynamically typed language](https://en.wikipedia.org/wiki/Type_system#DYNAMIC), which is a fancy way to say that johnny the variable can be whatever he wants. He can be a string:
+```ruby
+johnny = "Beautiful"
 ```
+And he can also be the solution to everything:
+```ruby
+johnny = 42
+```
+In which case, he is a number.
 
-### Suggested tutorials:
-
-- [GoRails](https://gorails.com/setup/)
-- [Lucas Kuhn setup (that's me)](https://dev.to/lucaskuhn/mac-setup-for-a-developer-in-2020-26ak)
+By the end of Part 0, you should understand these terms:
+```
+variable
+string
+integer
+float
+nil
+boolean
+algorithm
+two common algorithm categories
+method
+return value
+side effect
+parameter
+argument
+implicit return
+global scope
+method scope
+control flow
+loop
+if
+else
+elseif
+while
+until
+```

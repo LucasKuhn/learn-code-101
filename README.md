@@ -1,11 +1,17 @@
 # Learn Code 101
 Teaching a friend how to code!
-( Yes, that's you Becker 😆😆😆)
+( Yes, that's you Becker 😆)
 
-## [Part 0](/part-0)
+## [Setup](/setup)
 - Terminal
 - GIT
 - Environment setup
+
+## [Part 0](/part-0)
+- Ruby types
+- Methods
+- Loops
+- Enumerables
 
 ## [Part 1](/part-1)
 - Algorithms
