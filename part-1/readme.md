@@ -9,5 +9,5 @@ How do you get user input? [1](https://www.rubyguides.com/2019/10/ruby-chomp-get
 
 ### 1. Challenges
 
-- [cheering-mascot](/challenges/cheering-mascot)
-- [roman-numerals](/challenges/roman-numerals)
+- [cheering-mascot](challenges/cheering-mascot)
+- [roman-numerals](challenges/roman-numerals)
