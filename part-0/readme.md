@@ -2,7 +2,7 @@
 
 This a string:
 ```ruby
-"Hello there"
+"Hello world"
 ```
 It's how we represent text in Ruby, and we need quotations marks around it: `"`
 
